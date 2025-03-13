@@ -48,6 +48,36 @@ This project was designed to meet specific requirements for data analysis and vi
 - ✅ Error handling and validation
 - ✅ Responsive and scalable design
 
+## 📸 Screenshots
+
+### Application Interface
+![Application Interface](./images/1.png)
+*The main interface of CSV Query Visualizer with dark theme*
+
+### File Upload
+![File Upload](./images/file-upload.png)
+*Intuitive CSV file upload interface*
+
+### Natural Language Query Interface
+![Query Interface](./images/query-interface.png)
+*Ask questions about your data in natural language*
+
+### Bar Chart Visualization
+![Bar Chart Visualization](./images/visualization-bar.png)
+*Interactive bar chart showing data distribution*
+
+### Scatter Plot Analysis
+![Scatter Plot](./images/visualization-scatter.png)
+*Exploring relationships between variables with scatter plots*
+
+### Histogram Distribution
+![Histogram](./images/visualization-histogram.png)
+*Statistical distribution of numerical data*
+
+### Data Insights
+![Data Insights](./images/data-insights.png)
+*Detailed data analysis and insights generation*
+
 ## 🛠️ Tech Stack
 
 - Python 3.11+
