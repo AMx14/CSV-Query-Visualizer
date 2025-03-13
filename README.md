@@ -14,6 +14,39 @@ A modern, interactive web application for analyzing CSV data using natural langu
 - 🔄 Real-time data analysis
 - 📱 Responsive design
 - 🚀 Powered by Ollama LLM
+- 🤖 Structured data processing with Pydantic AI
+- 🔍 Advanced data validation and type safety
+- 🎯 Precise query response formatting
+
+## 🎯 Original Requirements Fulfilled
+
+This project was designed to meet specific requirements for data analysis and visualization:
+
+### Data Processing Requirements
+- ✅ CSV file handling and parsing
+- ✅ Data validation and type safety using Pydantic
+- ✅ Structured query processing with Pydantic AI
+- ✅ Real-time data analysis capabilities
+
+### Visualization Requirements
+- ✅ Multiple visualization types (histogram, pie, bar, scatter, line)
+- ✅ Interactive plot generation
+- ✅ Customizable visualization parameters
+- ✅ Responsive and modern UI for visualizations
+
+### User Interface Requirements
+- ✅ Modern, premium dark theme
+- ✅ Intuitive file upload interface
+- ✅ Natural language query input
+- ✅ Real-time response display
+- ✅ Interactive visualization controls
+
+### Technical Requirements
+- ✅ Type-safe data handling with Pydantic
+- ✅ LLM integration for natural language processing
+- ✅ Modular and maintainable code structure
+- ✅ Error handling and validation
+- ✅ Responsive and scalable design
 
 ## 🛠️ Tech Stack
 
@@ -21,7 +54,7 @@ A modern, interactive web application for analyzing CSV data using natural langu
 - Gradio
 - Pandas
 - Matplotlib
-- Pydantic
+- Pydantic & Pydantic AI
 - Ollama (LLM)
 
 ## 🚀 Getting Started
@@ -78,14 +111,6 @@ The application will be available at `http://localhost:7860`
 - "Show me the distribution of [categorical column]"
 - "What is the relationship between [column1] and [column2]?"
 
-## 🎨 UI Features
-
-- Modern dark theme with premium styling
-- Interactive file upload with drag-and-drop
-- Real-time data analysis
-- Beautiful visualizations
-- Responsive design for all devices
-- Clear example queries for guidance
 
 ## 🤝 Contributing
 
@@ -111,6 +136,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
+Akshat Maithani - [@portfolio](https://akshatmaithani.tech/) - akkshatmaithani@gmail.com
 
 Project Link: [https://github.com/AMx14/CSV-Query-Visualizer](https://github.com/AMx14/CSV-Query-Visualizer) 
