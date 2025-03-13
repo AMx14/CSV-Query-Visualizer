@@ -1,6 +1,7 @@
 # CSV Query Visualizer
 
 A modern, interactive web application for analyzing CSV data using natural language queries and generating visualizations. Built with Python, Gradio, and powered by LLMs.
+--Built for CarDekho's Assignment
 
 ![CSV Query Visualizer](https://img.shields.io/badge/CSV%20Query%20Visualizer-v1.0.0-blue)
 ![Python](https://img.shields.io/badge/python-3.11+-blue)
